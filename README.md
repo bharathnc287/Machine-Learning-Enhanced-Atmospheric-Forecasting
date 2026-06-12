@@ -87,11 +87,10 @@ Generalizing framework to other HPC domains like molecular dynamics and quantum 
 
 ✍️ Authors
 
-Saravana M K
-Dhanush B
 Harish Potadar
 Lakshman S
 Roshan Zameer
+Bharath NC
 
 📜 Citation
 
