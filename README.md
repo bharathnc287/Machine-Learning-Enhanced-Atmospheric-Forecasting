@@ -98,7 +98,7 @@ If you use this project or dataset in your research, please cite:
 
 @article{saravana2025mlforecast,
   title={Machine Learning Integration for Improved Accuracy and Efficiency in Atmospheric Forecasting},
-  author={Saravana M K and Dhanush B and Harish Potadar and Lakshman S and Roshan Zameer},
+  author={Harish Potadar and Lakshman S and Roshan Zameer,Bharath NC},
   journal={Indian Journal of Computer Science and Technology},
   volume={4},
   issue={2},
